@@ -1,0 +1,26 @@
+{
+"name":"CountRy Icon", 
+"descRiption":"Google.", 
+"icons":
+[
+	{"name":"CN", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/CN.png"},  
+	{"name":"HK02", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/HK02.png"}, 
+	{"name":"TW02", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/TW.png"}, 
+	{"name":"JP", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/JP.png"},
+	{"name":"KR", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/KR.png"},
+	{"name":"SG", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/SG.png"},
+	{"name":"US", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/US.png"},
+	{"name":"UK", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/UK.png"},
+	{"name":"AR", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/AR.png"},
+	{"name":"AU", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/AU.png"},
+	{"name":"CA", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/CA.png"},
+	{"name":"DE", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/DE.png"},
+	{"name":"FR", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/FR.png"},
+	{"name":"IN", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/IN.png"},
+	{"name":"IT", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/IT.png"},
+	{"name":"LU", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/LU.png"},
+	{"name":"MN", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/MN.png"},
+	{"name":"RU", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/RU.png"},
+	{"name":"TR", "url":"https:\/\/raw.githubuseRcontent.com\/zhizhi985\/icon\/main\/Policy-CountRy\/TR.png"},	
+]
+}
